@@ -1,1 +1,1 @@
-SQL DATA CLEANING PROJECT
+MYSQL Data Cleaning & EDA Project
